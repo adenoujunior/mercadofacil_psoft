@@ -7,6 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class ProjetoMercadoFacilApplicationTests {
 
 	@Test
+
 	void contextLoads() {
 	}
 
